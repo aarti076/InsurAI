@@ -16,7 +16,7 @@ public class Program1 {
         // Boolean type
         boolean isJavaFun = true;
 
-        // Print all values
+        // Printing all values
         System.out.println("Byte: " + b);
         System.out.println("Short: " + s);
         System.out.println("Int: " + i);
